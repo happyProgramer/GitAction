@@ -12,6 +12,8 @@
 		298A8B0828167D82003FB362 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 298A8B0728167D82003FB362 /* Assets.xcassets */; };
 		298A8B0B28167D82003FB362 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 298A8B0A28167D82003FB362 /* Preview Assets.xcassets */; };
 		29DDB8DC28168623007CF23F /* Swift2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29DDB8DB28168623007CF23F /* Swift2.swift */; };
+		29DDB8DA28168604007CF23F /* Swift1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29DDB8D928168604007CF23F /* Swift1.swift */; };
+		29DDB8E028168661007CF23F /* SwiftMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29DDB8DF28168661007CF23F /* SwiftMain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		298A8B0728167D82003FB362 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		298A8B0A28167D82003FB362 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		29DDB8DB28168623007CF23F /* Swift2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift2.swift; sourceTree = "<group>"; };
+		29DDB8D928168604007CF23F /* Swift1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift1.swift; sourceTree = "<group>"; };
+		29DDB8DF28168661007CF23F /* SwiftMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftMain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 				298A8B0328167D80003FB362 /* GitActionApp.swift */,
 				298A8B0528167D80003FB362 /* ContentView.swift */,
 				29DDB8DB28168623007CF23F /* Swift2.swift */,
+				29DDB8D928168604007CF23F /* Swift1.swift */,
+				29DDB8DF28168661007CF23F /* SwiftMain.swift */,
 				298A8B0728167D82003FB362 /* Assets.xcassets */,
 				298A8B0928167D82003FB362 /* Preview Content */,
 			);
@@ -141,8 +147,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				29DDB8DC28168623007CF23F /* Swift2.swift in Sources */,
+				29DDB8DA28168604007CF23F /* Swift1.swift in Sources */,
 				298A8B0628167D80003FB362 /* ContentView.swift in Sources */,
 				298A8B0428167D80003FB362 /* GitActionApp.swift in Sources */,
+				29DDB8E028168661007CF23F /* SwiftMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
