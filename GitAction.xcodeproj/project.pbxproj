@@ -11,6 +11,7 @@
 		298A8B0628167D80003FB362 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 298A8B0528167D80003FB362 /* ContentView.swift */; };
 		298A8B0828167D82003FB362 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 298A8B0728167D82003FB362 /* Assets.xcassets */; };
 		298A8B0B28167D82003FB362 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 298A8B0A28167D82003FB362 /* Preview Assets.xcassets */; };
+		29DDB8DA28168604007CF23F /* Swift1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29DDB8D928168604007CF23F /* Swift1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		298A8B0528167D80003FB362 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		298A8B0728167D82003FB362 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		298A8B0A28167D82003FB362 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		29DDB8D928168604007CF23F /* Swift1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				298A8B0328167D80003FB362 /* GitActionApp.swift */,
 				298A8B0528167D80003FB362 /* ContentView.swift */,
+				29DDB8D928168604007CF23F /* Swift1.swift */,
 				298A8B0728167D82003FB362 /* Assets.xcassets */,
 				298A8B0928167D82003FB362 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29DDB8DA28168604007CF23F /* Swift1.swift in Sources */,
 				298A8B0628167D80003FB362 /* ContentView.swift in Sources */,
 				298A8B0428167D80003FB362 /* GitActionApp.swift in Sources */,
 			);
